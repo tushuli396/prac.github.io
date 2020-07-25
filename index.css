@@ -81,7 +81,7 @@ img .gallery{
   height:10%;
   width:25%;
 }
-@media all and (max-width:600px)
+@media only screen and (max-width:600px)
 {
   .navbar {
   width:20%;
